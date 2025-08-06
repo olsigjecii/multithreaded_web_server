@@ -1,4 +1,4 @@
-# Final Project: Building a Multithreaded Web Server
+# Building a Multithreaded Web Server
 
 - Learn a bit about TCP and HTTP.
 - Listen for TCP connections on a socket.
